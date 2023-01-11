@@ -1,0 +1,22 @@
+.input{
+    font-family: 'Roboto', sans-serif;
+  color: #333;
+  font-size: 1.2rem;
+    margin: 0 auto;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  width: 60rem;
+  border: 0.1rem solid black;
+  background-color: whitesmoke;
+
+}
+
+.small{
+  width: 15rem;
+}
+.medium{
+  width: 30rem;
+}
+.large{
+  width: 45rem;
+}
